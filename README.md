@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayden-droid)](https://github.com/hayden-droid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayden-droid&langs_count=30)](https://github.com/hayden-droid)
 
 
 
