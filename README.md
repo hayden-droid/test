@@ -1,4 +1,4 @@
-![hayden-droid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayden-droid&show_icons=true&count_private=true&custom_title=TESTING)
+![hayden-droid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayden-droid&show_icons=true&count_private=true&custom_title=TESTING&include_all_commits=true)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hayden-droid&repo=why&show_owner=true)](https://github.com/hayden-droid)
 
 
